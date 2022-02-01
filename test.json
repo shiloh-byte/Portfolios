@@ -1,0 +1,12 @@
+// test json file for practice //
+
+{
+           "name": "Test",
+           "age": 34,
+           "state": "Texas",
+           "likes": [
+               "coding",
+               "reading",
+               "disc golf"
+           ]
+}
