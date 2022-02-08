@@ -1,0 +1,8 @@
+## Ignore Mac OS Stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Ignore SCSS cache
+.main.css
+.main.css.map
