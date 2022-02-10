@@ -1,0 +1,136 @@
+{
+    "basics": {
+      "name": "Tattooscape",
+      "title": "Programmer",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFwIt4wIzoIaQ/profile-displayphoto-shrink_200_200/0/1574368406864?e=1649894400&v=beta&t=1q3JUp4IJuYQvlrI7lnQZLyhkBlTV7wAfhpRZpl0Awo",
+      "email": "tattooscape@email.com",
+      "phone": "(555) 555-5555",
+      "url": "https://tattooscape.com",
+      "summary": "A summary of tattooscape…",
+      "location": {
+        "address": "South of Fort Worth",
+        "postalCode": "76476",
+        "city": "Some City",
+        "countryCode": "US",
+        "region": "Texas"
+      },
+      "profile1": [{
+        "network": "Github",
+        "username": "shiloh-byte",
+        "url": "https://github.com/shiloh-byte"
+      }],
+      "profile2": [{
+        "network": "LinkedIn",
+        "username": "misc",
+        "url": "https://linkedin.com"
+      }]
+    },
+
+    "work1": [{
+      "name": "A Company",
+      "position": "Disatcher/Manager",
+      "url": "https://acompany.com",
+      "startDate": "2018-10-25",
+      "endDate": "2019-10-01",
+      "summary": "Description…"
+    }],
+    "work2": [{
+        "name": "A Company",
+        "position": "Disatcher",
+        "url": "https://acompany.com",
+        "startDate": "2019-12-17",
+        "endDate": "2020-04-04",
+        "summary": "Description…"
+      }],
+
+
+    "education": [{
+      "institution": "College",
+      "url": "https://college.com/",
+      "area": "Liberal Arts",
+      "studyType": "AA",
+      "startDate": "2010-08-01",
+      "endDate": "2012-12-01",
+      "score": "3.4",
+      "courses": [
+        "Basics"
+      ],
+      "awards": [{
+          "date": "none",
+          "summary": "none"
+      }]
+    }],
+
+    "certificates": [{
+      "name": "TABC",
+      "date": "2018-04-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+
+    "publications": [{
+      "name": "None",
+      "publisher": "none",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "none"
+    }],
+
+    "skills": [{
+      "name": "Web Development",
+      "level": "Begginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    
+    "interests": [{
+      "name": [
+        "Disc Golf",
+        "reading",
+        "coding"
+    ]
+    }],
+
+    "references": [{
+      "name1": "Mike T",
+      "reference1": "Reference…"
+    },
+    {
+        "name2": "Dawn P",
+        "reference2": "Reference…" 
+    },
+{
+        "name3": "Angela G",
+        "reference3": "Reference…"
+}],
+
+
+    "projects1": [{
+      "name": "Broken Calculator",
+      "description": "HTML",
+      "startDate": "2022-01-02",
+      "endDate": "2022-01-09",
+      "url": "https://project.com/",
+      "roles": [
+        "HTML"
+      ],
+      "entity": "Cascaderans",
+      "type": "application"
+    }],
+
+    "projects2": [{
+        "name": "Deck of Cards",
+        "description": "CSS",
+        "startDate": "2022-01-10",
+        "endDate": "2022-01-11",
+        "url": "https://project.com/",
+        "roles": [
+          "CSS"
+        ],
+        "entity": "Cascaderans",
+        "type": "application"
+      }]
+  }
