@@ -1,4 +1,4 @@
-const url = "http://myjson.dit.upm.es/api/bins/7u1x"
+const url = "/info.json"
 fetch(url)
         .then(function (response) {
         return response.json();    
