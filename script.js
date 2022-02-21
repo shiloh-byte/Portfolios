@@ -1,5 +1,5 @@
-const url = "https://github.com/shiloh-byte/Portfolios/blob/main/info.json"
-fetch(url)
+// const url = "https://github.com/shiloh-byte/Portfolios/blob/main/info.json"
+fetch('./static/info.json')
         .then(function (response) {
         return response.json();    
         })
