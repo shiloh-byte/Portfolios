@@ -18,40 +18,12 @@ body {
   min-height: 100vh;
 }
 
-.portfolio__wrapper {
-  background-color: #f3f5e0;
-  width: 100%;
+.portfolio-container {
+  background-color: azure;
 }
 
-.portfolio__header {
-  height: 85vh;
-}
-
-.portfolio__container {
-  color: white;
-  font-size: 2.5rem;
-}
-
-.porfolio__container--tattoscape {
-  background-color: #b7c3c1;
-  border-radius: 10px 10px 0 0;
-  height: 150px;
-}
-
-.porfolio__container--davidalex17 {
-  background-color: #d6767c;
-  border-radius: 10px 10px 0 0;
-  height: 150px;
-}
-
-.porfolio__container--tbone {
-  background-color: teal;
-  border-radius: 10px 10px 0 0;
-  height: 150px;
-}
-
-.portofolio__footer {
-  background-color: #18181b;
-  height: 20rem;
+footer {
+  background-color: beige;
+  color: aliceblue;
 }
 /*# sourceMappingURL=main.css.map */
