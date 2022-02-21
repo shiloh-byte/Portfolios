@@ -1,4 +1,4 @@
-const url = './static/info.json'
+const url = 'info.json'
 fetch(url)
         .then(function (response) {
         return response.json();    
