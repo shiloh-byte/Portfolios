@@ -1,5 +1,5 @@
 
-fetch('./static/info.json', {mode:'cors'})
+fetch('./static/info.json', {mode:'no-cors'})
         .then(function (response) {
         return response.json();    
         })
