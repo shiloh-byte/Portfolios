@@ -31,7 +31,7 @@
       "description": "HTML",
       "startDate": "2022-01-02",
       "endDate": "2022-01-09",
-      "url": "https://project.com/",
+      "url": "https://github.com/shiloh-byte/Broken-Calculator",
       "roles": [
         "HTML"
       ],
@@ -43,7 +43,7 @@
         "description": "CSS",
         "startDate": "2022-01-10",
         "endDate": "2022-01-11",
-        "url": "https://project.com/",
+        "url": "https://github.com/shiloh-byte/deck-of-cards",
         "roles": [
           "CSS"
         ],
@@ -85,7 +85,7 @@
         "description": "Javascript",
         "startDate": "2022-01-02",
         "endDate": "2022-01-09",
-        "url": "https://project.com/",
+        "url": "https://github.com/DavidAlex17/Broken-Calculator",
         "roles": [
           "Javascript"
         ],
@@ -97,7 +97,7 @@
           "description": "HTML",
           "startDate": "2022-01-10",
           "endDate": "2022-01-11",
-          "url": "https://project.com/",
+          "url": "https://github.com/DavidAlex17/deck-of-cards",
           "roles": [
             "HTML"
           ],
@@ -139,7 +139,7 @@
           "description": "CSS",
           "startDate": "2022-01-02",
           "endDate": "2022-01-09",
-          "url": "https://project.com/",
+          "url": "https://github.com/tjschwartz7/Broken-Calculator",
           "roles": [
             "CSS"
           ],
@@ -151,7 +151,7 @@
             "description": "Javascript",
             "startDate": "2022-01-10",
             "endDate": "2022-01-11",
-            "url": "https://project.com/",
+            "url": "https://github.com/tjschwartz7/deck-of-cards",
             "roles": [
               "Javascript"
             ],
