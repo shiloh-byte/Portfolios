@@ -1,4 +1,4 @@
-const url = "/info.json"
+const url = "https://github.com/shiloh-byte/Portfolios/blob/main/info.json"
 fetch(url)
         .then(function (response) {
         return response.json();    
