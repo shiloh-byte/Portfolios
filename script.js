@@ -1,5 +1,5 @@
-
-fetch('./static/info.json/allow-cors')
+const url = './static/info.json'
+fetch(url)
         .then(function (response) {
         return response.json();    
         })
